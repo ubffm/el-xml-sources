@@ -11,7 +11,7 @@ For further information, please refer to: [https://www.linguistik.de/en/e-publis
 The data at hand uses BITS 2.0 (Book Interchange Tag Suite), an extension to the JATS (Journal Article Tag Suite) XML format. For more technical background information, please refer to: [http://jats.nlm.nih.gov/extensions/bits/tag-library/2.0/index.html](http://jats.nlm.nih.gov/extensions/bits/tag-library/2.0/index.html)
 
 ## Funding
-The Open Access publication of this data was funded by the German Research Foundation (DFG), [project number 326024153](https://gepris.dfg.de/gepris/projekt/326024153).
+The Open Access publication of this data was funded by the German Research Foundation (DFG), [project identifier 326024153](https://gepris.dfg.de/gepris/projekt/326024153?language=en).
 
 ## Licence
 All data is published under CC-BY 4.0.
