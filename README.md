@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the BITS-XML source files for volumes 11 to 15 of the academic book series "Empirische Linguistik / Empiricial Linguistics". [DeGruyter](https://www.degruyter.com/serial/EL-B/html) published the volumes between 2019 and 2021 under a CC-BY 4.0 licence. The publication of the volumes in Gold Open Access was supported by the project "Fachinformationsdienst (FID) Linguistik". FID Linguistik is funded by the German Research Foundation (DFG).
+This repository contains the BITS-XML source files for volumes 11 to 16 of the academic book series "Empirische Linguistik / Empiricial Linguistics". [DeGruyter](https://www.degruyter.com/serial/EL-B/html) published the volumes between 2019 and 2021 under a CC-BY 4.0 licence. The publication of the volumes in Gold Open Access was supported by the project "Fachinformationsdienst (FID) Linguistik". FID Linguistik is funded by the German Research Foundation (DFG).
 
 For further information, please refer to: [https://www.linguistik.de/en/e-publishing/series-empirical-linguistics/](https://www.linguistik.de/en/e-publishing/series-empirical-linguistics/)
 
